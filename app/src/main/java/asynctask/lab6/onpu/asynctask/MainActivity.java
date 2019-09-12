@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
-
+// ЭТО КОММЕНТАРИЙ ДЛЯ ЛАБЫ
 public class MainActivity extends AppCompatActivity {
 
     @Override
